@@ -1,5 +1,9 @@
 # Projeto Sistema de Controle de Entrada de Visitantes com Ruby on Rails
 
+# Integrantes
+- Keyllian7
+- Sofia14Belle
+
 # Sumário
 
 - [📚 Antes de qualquer coisa, leia...](#antes-de-qualquer-coisa-leia)
