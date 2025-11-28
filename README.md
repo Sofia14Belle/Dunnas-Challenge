@@ -1,15 +1,5 @@
 # Projeto Sistema de Controle de Entrada de Visitantes com Ruby on Rails
 
-## 📚 Antes de qualquer coisa, leia...  
-
-Eu aprendi a sintaxe do Ruby e o framework Ruby on Rails e desenvolvi este projeto em um período de 7 dias. Fiz tudo isso em lives no YouTube, e, ao longo desses 7 dias, realizamos cerca de 20 transmissões (até o momento), acumulando aproximadamente 70 horas de live, uma média de 10 horas por dia dedicadas a este projeto.  
-
-Por ser um framework e uma linguagem novos para mim, é evidente que ainda não tenho total domínio sobre o Ruby on Rails. No entanto, com toda essa dedicação ao desafio, pude aplicar não só conhecimentos externos, mas também boas práticas de desenvolvimento.  
-
-Se quiser acompanhar o processo, você pode acessar a playlist das lives deste projeto no meu canal do YouTube:  
-**Playlist das Lives:** [Lives](https://youtube.com/playlist?list=PLPFcnwFvZAMZfgLLpt17qpilg_pPwBkm4&si=VbrqY8WBIm2ix5x9)  
-**Canal no YouTube:** [Canal](https://www.youtube.com/@DevKeyllian)  
-
 # Sumário
 
 - [📚 Antes de qualquer coisa, leia...](#antes-de-qualquer-coisa-leia)
